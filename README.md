@@ -2,7 +2,7 @@
 
 #### About me
 
-* I am 40 year old programmer from Saint-Petersburg :computer:
+* I'm programmer. I'm from Russia and living in Saint-Petersburg :computer:
 * I learn Java at [Job4j](https://job4j.ru/) :coffee:
 * My Java expirience is 1,5 year :watch:
 
